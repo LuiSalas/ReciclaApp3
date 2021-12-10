@@ -25,22 +25,12 @@ class Activity_login: AppCompatActivity() { // View Binding
         binding = ActivityLoginBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.btnIngresarPublicador.setOnClickListener {
-            aspublicador()
-        }
-        binding.btnIngresarReciclador.setOnClickListener {ingresarreciclador()
+
+        binding.btnIngresarReciclador.setOnClickListener {
+            ingresarreciclador()
         }
     }
 
-    private fun aspublicador() {
-
-        val myIntent = Intent(
-            this,
-            Landing_publicador::class.java
-        ).apply {
-        } // Se lanza la activity.
-        startActivityForResult(myIntent, REQUESET_CODE2)
-    }
     fun ingresarreciclador() {
 
         val myIntent = Intent(

@@ -31,25 +31,6 @@
             android:parentActivityName=".Centros_acopio_lista"></activity>
 
 
-        <activity android:name=".Landing_publicador"
-            android:exported="false"
-            android:label= "Publicador"
-            android:parentActivityName=".Activity_login"></activity>
-
-        <activity android:name=".Ingresar_reciclables_publicador2"
-            android:exported="false"
-            android:label="Recicalble"
-            android:parentActivityName=".Ingresar_reciclables_publicador"
-            ></activity>
-        <activity android:name=".Ingresar_reciclables_publicador"
-            android:exported="false"
-            android:label="Publicar reciclaje"
-            android:parentActivityName=".Landing_publicador"></activity>
-<activity android:name=".Ingresar_reciclables_publicador3"
-    android:exported="false"
-android:label="Finalización"
-    android:parentActivityName=".Ingresar_reciclables_publicador"></activity>
-
 
 
     <activity android:name=".Landing_reciclador"
@@ -58,18 +39,7 @@ android:label="Finalización"
         android:parentActivityName=".Activity_login"></activity>
 
 
-
-        <activity android:name=".Reciclables_reciclador"
-android:exported="false"
-            android:label="Publicaciones"
-            android:parentActivityName=".Activity_login"
-            ></activity>
-
-        <activity android:name=".Ingresar_reciclables"
-            android:exported="false"
-            android:label="Recoger Reciclable"
-            android:parentActivityName=".Reciclables_reciclador"></activity>
-    <activity
+<activity
 
             android:name=".Activity_login"
             android:label="Login"
@@ -80,7 +50,7 @@ android:exported="false"
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
+</activity>
     </application>
 
 </manifest>

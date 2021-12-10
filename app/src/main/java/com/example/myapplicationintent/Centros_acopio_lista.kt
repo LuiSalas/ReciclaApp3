@@ -11,7 +11,6 @@ import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import android.widget.Toast
 import com.example.myapplicationintent.databinding.CentrosAcopioListaBinding
-import com.example.myapplicationintent.databinding.IngresarReciclablesPublicadorBinding
 
 class Centros_acopio_lista: AppCompatActivity() { // View Binding
     private lateinit var binding: CentrosAcopioListaBinding

@@ -7,8 +7,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.view.View
-import com.example.myapplicationintent.databinding.IngresarReciclablesPublicador2Binding
-import com.example.myapplicationintent.databinding.LandingPublicadorBinding
 import com.example.myapplicationintent.databinding.LandingRecicladorBinding
 
 class Landing_reciclador: AppCompatActivity() { // View Binding
@@ -29,9 +27,6 @@ class Landing_reciclador: AppCompatActivity() { // View Binding
         super.onCreate(savedInstanceState)
         binding = LandingRecicladorBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        binding.btnPublicacionesRegistradas.setOnClickListener {
-            Agregarreci()
-        }
         binding.btnCent5roAcopio.setOnClickListener {
             centrosacopio()
         }
@@ -49,15 +44,6 @@ private fun centrosacopio(){
 
 
 
-private fun Agregarreci() {
-
-        val myIntent = Intent(
-            this,
-            Reciclables_reciclador::class.java
-        ).apply {
-        } // Se lanza la activity.
-        startActivityForResult(myIntent, REQUESET_CODE2)
-    }
 /*
     private fun askConditions() {
         Log.d(TAG_APP, "askConditions()")
