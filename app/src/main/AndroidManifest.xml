@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplicationintent">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplicationIntent">
+
+
+
+        <activity android:name=".Centros_acopio"
+            android:exported="false"
+            android:label= "Centros de Acopio"
+            android:parentActivityName=".Landing_reciclador"></activity>
+
+
+
+        <activity android:name=".Centros_acopio_lista"
+            android:exported="false"
+            android:label= "Centros de Acopio"
+            android:parentActivityName=".Centros_acopio"></activity>
+
+
+        <activity android:name=".Centros_acopio_detalle"
+            android:exported="false"
+            android:label= "Centro 1"
+            android:parentActivityName=".Centros_acopio_lista"></activity>
+
+
+        <activity android:name=".Landing_publicador"
+            android:exported="false"
+            android:label= "Publicador"
+            android:parentActivityName=".Activity_login"></activity>
+
+        <activity android:name=".Ingresar_reciclables_publicador2"
+            android:exported="false"
+            android:label="Recicalble"
+            android:parentActivityName=".Ingresar_reciclables_publicador"
+            ></activity>
+        <activity android:name=".Ingresar_reciclables_publicador"
+            android:exported="false"
+            android:label="Publicar reciclaje"
+            android:parentActivityName=".Landing_publicador"></activity>
+<activity android:name=".Ingresar_reciclables_publicador3"
+    android:exported="false"
+android:label="Finalización"
+    android:parentActivityName=".Ingresar_reciclables_publicador"></activity>
+
+
+
+    <activity android:name=".Landing_reciclador"
+        android:exported="false"
+        android:label="Reciclador"
+        android:parentActivityName=".Activity_login"></activity>
+
+
+
+        <activity android:name=".Reciclables_reciclador"
+android:exported="false"
+            android:label="Publicaciones"
+            android:parentActivityName=".Activity_login"
+            ></activity>
+
+        <activity android:name=".Ingresar_reciclables"
+            android:exported="false"
+            android:label="Recoger Reciclable"
+            android:parentActivityName=".Reciclables_reciclador"></activity>
+    <activity
+
+            android:name=".Activity_login"
+            android:label="Login"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

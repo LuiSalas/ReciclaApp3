@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/drawable/ic_launcher_categorias_background.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/drawable/ic_launcher_categorías_background.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/drawable/ic_launcher_icono_background.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/drawable/ic_launcher_reciclaje_background.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/Principal.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_alogin.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_main2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_main3.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_main4.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_main5.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_main6.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_main7.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_second.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/activity_second2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/content_aactivity_login.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/content_main.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/content_main2.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/content_main3.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/content_main4.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/fragment_first.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/fragment_first2.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/fragment_first3.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/fragment_first4.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/fragment_second3.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/ingresar_reciclables.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/ingresar_reciclables_publicador.xml" value="0.22" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/ingresar_reciclables_publicador2.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/ingresar_reciclables_publicador22.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/ingresar_reciclables_publicador3.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/ingresar_reciclables_reciclador.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/landing_publicador.xml" value="0.22" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/landing_reciclador.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/listview_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/principal.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/layout/reciclables_reciclador.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_categorias.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_categorias_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_icono.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_icono2.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_icono2_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_reciclaje.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_reciclaje_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/MyApplicationIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/drawable/ic_launcher_ubicacionactualDestino_background.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/layout/centros_Acopio_detaalle.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/layout/centros_Acopio_detalle.xml" value="0.22" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/layout/centros_acopio.xml" value="0.22" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/layout/centros_acopio_detalle.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/layout/centros_acopio_lista.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/layout/ingresar_reciclables.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/layout/ingresar_reciclables_publicador2.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/layout/landing_reciclador.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/layout/reciclables_reciclador.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_ubicacion3_round.xml" value="0.1" />
+        <entry key="..\:/Users/luis_/AndroidStudioProjects/ReciclaApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_ubicacionactualDestino.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

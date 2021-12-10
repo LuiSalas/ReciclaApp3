@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">My Application Intent</string>
+    <string name="hintText">Text</string>
+    <string name="myButton">My</string>
+    <string name="Calcular">Índice de Masa Corporal</string>
+    <string name="Peso">Peso (Kg)</string>
+    <string name="Peso_kg">Peso [Kg]</string>
+    <string name="Talla">Talla [metros]</string>
+    <string name="btn_accept">ACCEPT</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="msgAccept">%s</string>
+    <string name="SEND">SEND</string>
+    <string name="Information">Information to send</string>
+    <string name="Information1">Information</string>
+    <string name="IMC2">IMC</string>
+    <string name="CALCULAR">CALCULAR</string>
+    <string name="IMC">IMC</string>
+    <string name="EMAIL">Email</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="TusReiclables">Tus Reciclajes</string>
+    <string name="Actuales">Actuales</string>
+    <string name="Pasados">Pasados</string>
+    <string name="TítuloPublicador1">¿Tienes material reciclable en casa?</string>
+    <string name="Noticias">Noticias</string>
+    <string name="Noticia1">\u2022 En el Perú solo se recicla el 1.9% de los residuos sólidos reaprovechables.</string>
+    <string name="Noticia2">\u2022 Reciclar tiene muchos beneficios para el medio ambiente y el ahorro de energía.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_alogin">aactivityLogin</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="ContenidoPublicador">Sé parte del cambio. Recicla desde tu hogar sin necesidad de transportarte</string>
+    <string name="BotonReciclaje">Recicla con la app</string>
+    <string name="TituloReciclador">¿Estás listo para comenzar a recolectar material reciclable?</string>
+    <string name="ContenidoReciclador">Sé parte del cambio. Vé a los puntos de recolección cercanos a tu ruta</string>
+    <string name="BotonReciclador">Ver publicaciones</string>
+    <string name="BotónReciclador2">Reciclables por recojer</string>
+    <string name="Ruta">Mi ruta</string>
+    <string name="MisCategorias">Mis categorías</string>
+    <string name="CentrosAcopio">Centros de Acopio</string>
+    <string name="Ubicación">Ubicación</string>
+    <string name="ListaReciclables">Lista de Reciclables</string>
+    <string name="Publicar">Publicar</string>
+    <string name="Pago">Pago</string>
+    <string name="Donación">Donación</string>
+    <string name="CantidadIngresar">Ingrese la cantidad</string>
+    <string name="Foto">Foto</string>
+    <string name="Agregar">Agregar reciclable</string>
+    <string name="Felicidades">Felicidades</string>
+    <string name="Publicado">Se ha publicado satisfactoriamente</string>
+    <string name="Regresar">Regresar</string>
+    <string name="IngresarPublicador">Ingresar Publicador</string>
+    <string name="IngresarReciclador">Ingresar Reiclador</string>
+    <string name="Detalle">Detalle de la publicación</string>
+    <string name="Direccion1">Av. Peru 1919</string>
+    <string name="Nombre1">José Ramirez</string>
+    <string name="Cnatidad1">1 Kg</string>
+    <string name="Aplicar">Aplicar</string>
+    <string name="Cantidad1">1 Kg</string>
+    <string name="Filtrar">Filtrar por Ubicación</string>
+    <string name="Departamento">Departamento</string>
+    <string name="Provincia">Provincia</string>
+    <string name="distrito">Distrito</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Información">Información</string>
+    <string name="Descripción1">Se reciclan: Botellas Plástico y Papel</string>
+    <string name="CantidadDescripcion">Cantidad Máxima:</string>
+    <string name="CantidadEjemplo">5 Kg</string>
+    <string name="PrecioUnitario">Precio Unitario:</string>
+    <string name="PrecioEjemplo">0.2 soles</string>
+    <string name="UbicacionActual">Ubicación Actual</string>
+    <string name="Ubicacion">Ubicación</string>
+    <string-array name="ubicacion_array">
+            <item>Seleccionar ubicación</item>
+            <item>San Miguel - Lima</item>
+            <item>Pueblo Libre - Lima</item>
+        </string-array>
+    <string-array name="reciclables_array">
+    <item>Ingrese el nombre del material</item>
+    <item>Vidrios</item>
+    <item>Botellas plástico</item>
+    </string-array>
+    <string-array name="cantidad_array">
+        <item>Kg</item>
+        <item>Lbs</item>
+    </string-array>
+
+<string-array name="provincia_array">
+<item>Seleccionar provincia</item>
+<item>Lima</item>
+    <item>Barranca</item>
+    <item>Cajtambo</item>
+<item>Canta</item>
+    <item>Cañete</item>
+    <item>Huaral</item>
+</string-array>
+
+
+<string-array name="departamento_array">
+<item>Seleccionar depatamento</item>
+<item>Lima</item>
+<item>Arequipa</item>
+<item>Huanuco</item>
+<item>Ica</item>
+<item>Lambayeque</item>
+<item>Piura</item>
+<item>Tacna</item>
+</string-array>
+
+<string-array name="distrito_array">
+<item>Seleccionar distrito</item>
+<item>Ate</item>
+<item>Barranca</item>
+    <item>Breña</item>
+    <item
+        >Chaclacayo</item>
+    <item>Cinegilla</item>
+    <item>El agustino</item>
+    <item>La molina</item>
+    <item>Lince</item>
+    <item>Los olivos</item>
+    <item>Pueblo Libre</item>
+    <item>Punta negra</item>
+    <item>San Miguel</item>
+</string-array>
+
+</resources>
